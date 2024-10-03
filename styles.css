@@ -1,0 +1,19 @@
+
+
+body {
+    background-color: lightblue;
+}
+
+h1{
+    color: black;
+    text-decoration: double;
+}
+h2 {
+    color: navy;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color: darkgray;
+}
